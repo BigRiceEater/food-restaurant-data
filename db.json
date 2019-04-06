@@ -1,0 +1,9 @@
+{
+  "restaurants" : [
+    {
+      "title" : "PhD",
+      "imageUrl" : "https://order.phd.hk/sFiles/images/logo.png",
+      "description" : "Western-style pizza delivered straight to your door!"
+    }
+  ]
+}
