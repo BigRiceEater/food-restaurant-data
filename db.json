@@ -4,73 +4,85 @@
       "id" : "4d6b3154-3b50-4502-97cf-a50207684322",
       "title" : "Pizza Expo",
       "imageUrl" : "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
-      "description" : "Western-style pizza delivered straight to your door!"
+      "description" : "Western-style pizza delivered straight to your door!",
+      "tags" : ['western','pizza']
     },
     {
       "id" : "7f319c02-2641-453b-b1f1-d9d350be0fb5",
       "title" : "McDonnie's",
       "imageUrl" : "https://images.unsplash.com/photo-1428660386617-8d277e7deaf2?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
-      "description" : "Fast and affordable burgers for the family"
+      "description" : "Fast and affordable burgers for the family",
+      "tags" : ['western','burger']
     },
     {
       "id" : "47e77ecc-6f2d-48c9-8990-25fa29541180",
       "title" : "Breakfast is English",
       "imageUrl" : "https://images.unsplash.com/photo-1455853739633-8c94c03d8121?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "Traditional breakfast served with a taste of English"
+      "description" : "Traditional breakfast served with a taste of English",
+      "tags" : ['western','breakfast']
     },
     {
       "id" : "6d8964b3-8b11-4713-8997-0e86044fbbb2",
       "title" : "Yorkshire Ramen",
       "imageUrl" : "https://images.unsplash.com/photo-1478749485505-2a903a729c63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "A family run restaurant serving the hottest noodles in town! Come now and experience a 20% discount."
+      "description" : "A family run restaurant serving the hottest noodles in town! Come now and experience a 20% discount.",
+      "tags" : ['japanese','noodle']
     },
     {
       "id" : "1a8f11b7-c59e-460d-909a-ddfc9c09b761",
       "title" : "House of Curry",
       "imageUrl" : "https://images.unsplash.com/photo-1545247181-516773cae754?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
-      "description" : "Authentic taste of curry with a splendid choice of nanbread and yellow rice"
+      "description" : "Authentic taste of curry with a splendid choice of nanbread and yellow rice",
+      "tags" : ['asian','curry']
     },
     {
       "id" : "72d4e1ea-1b90-4e80-9050-e52c9fc90843",
       "title" : "Lasagne Farm",
       "imageUrl" : "https://images.unsplash.com/photo-1510693206972-df098062cb71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1201&q=80",
-      "description" : "Choose how many layers of meat sauce and carbonara as you wish!"
+      "description" : "Choose how many layers of meat sauce and carbonara as you wish!",
+      "tags" : ['western','italian']
     },
     {
       "id" : "f7e17c17-94bd-4076-89f5-a557fb69db64",
       "title" : "The Yellow Dragon",
       "imageUrl" : "https://images.unsplash.com/photo-1517499414974-3b42addf2d86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "Steam, steam, steam! Everything is dimsum and dumplings. Come, come, come!"
+      "description" : "Steam, steam, steam! Everything is dimsum and dumplings. Come, come, come!",
+      "tags" : ['asian','dimsum']
     },
     {
       "id" : "3fa32695-b3d2-477f-8632-b6670682120f",
       "title" : "Simon's Ocean",
       "imageUrl" : "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "From the bottom of the ocean we bring you the most fresh and lively seafood across town"
+      "description" : "From the bottom of the ocean we bring you the most fresh and lively seafood across town",
+      "tags" : ['western','seafood']
     },
     {
       "id" : "87f1f033-09ff-44b6-b891-64aa92186637",
       "title" : "Stuff-Yourself-Silly, (SYS)",
       "imageUrl" : "https://images.unsplash.com/photo-1545324053-41b04f1a8e8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "Eat all you want and how much you want until you feel silly"
+      "description" : "Eat all you want and how much you want until you feel silly",
+      "tags" : ['asian','buffet','seafood']
     },
     {
       "id" : "41ee4bd3-2443-4bd0-830b-f1ff421e301a",
       "title" : "Flour Oven",
       "imageUrl" : "https://images.unsplash.com/photo-1477763858572-cda7deaa9bc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1276&q=80",
-      "description" : "The smell of freshly baked baguettes and bagels with a whip of cream on top"
+      "description" : "The smell of freshly baked baguettes and bagels with a whip of cream on top",
+      "tags" : ['western','bakery']
     },
     {
       "id" : "4291d84f-18ae-40cc-bd27-13b610b9f2dc",
       "title" : "Roar Sashimi",
       "imageUrl" : "https://images.unsplash.com/photo-1540713304937-18ad930d3594?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "description" : "Our master chef slice and dice the spring of fish into rolls of California, just for you"
+      "description" : "Our master chef slice and dice the spring of fish into rolls of California, just for you",
+      "tags" : ['japanese','seafood', 'sushi']
     },
     {
       "id" : "0a830cf9-3d04-45e8-80a4-eee50c1ce7e5",
       "title" : "Grinded Beans",
       "imageUrl" : "https://images.unsplash.com/photo-1459755486867-b55449bb39ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80",
-      "description" : "The beans are carefully grounded and pounded into the best blend of coffee deserving of your visit"
+      "description" : "The beans are carefully grounded and pounded into the best blend of coffee deserving of your visit",
+      "tags" : ['western','coffee']
     }
   ]
 }
