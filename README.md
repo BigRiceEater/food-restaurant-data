@@ -1,7 +1,7 @@
 # Restaurant JSON Data Server
 
 This file is served by the powerful [Typicode JSON Server](https://my-json-server.typicode.com/). 
-The data here is pure fictional and any resemblence to real-life entities are purely a coincidences. 
+The data here is pure fictional and any resemblence to real-life entities are purely coincidence. 
 Images come directly from the free [Unsplash](https://unsplash.com/) Community. 
 
 ## API
