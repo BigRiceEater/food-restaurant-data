@@ -6,4 +6,8 @@ Images come directly from the free [Unsplash](https://unsplash.com/) Community.
 
 ## API
 
-The server acts like any Restful Api and can be accessed via `https://my-json-server.typicode.com/bigriceeater/food-restaurant-data/restaurants`
+The server acts like any Restful Api and can be accessed via :
+
+```
+https://my-json-server.typicode.com/bigriceeater/food-restaurant-data/restaurants
+```
